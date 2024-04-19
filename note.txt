@@ -1,0 +1,8 @@
+Object Account
+
+Account 1
+{
+     "email": "yahya@mail.com",
+     "password": "@.zoasjiw123",
+     "fullName": "kasofkoa"
+}
